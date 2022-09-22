@@ -1,0 +1,35 @@
+1) A letra A pode ser utilizada somente para variáveis e campos , pois as classes precisam iniciar com letra maíscula e o restante da palavra minúscula. As letras B e C não podem ser utilizadas por serem palavras reservadas do JAVA. A letra D não poderá ser utilizada pois somente números não são aceitos. E por fim, a letra E funcionaria se utilizada, porém por convenção não se utiliza o tipo de nomeação onde todas as letras são maiúsculas.
+
+2)A letras A não poderá ser utilizada pois é uma palavra reservada JAVA. A letra B não podera ser utilizada devido a convenção de que somente a primeira letra da palavra deve ser maiúscula. As letras C e E podem ser utilizadas somente como nomes de variáveis e campos, porque as classes e métodos devem iniciar por maiúsculo. As letras D e F não podem ser utilizadas porque utilização caracteres não aceitos pela linguagem no meio da palavra.
+
+3)As letras A, D, F e H podem ser utilidaza somente para variáveis e campos. As letras B, C, G e E não podem ser utilizadas devido as convenção de nomeação.
+
+4)Letra A, E e F pode ser utilizada como campo e variáveis.
+Letra B não, pois inicia com número. Letra C não, pois possui espaços entre as palavras. D pode ser utilizado como nome de Métodos e Classes.
+
+9) A Falso. B Verdadeiro. C Falso. D Verdadeiro. E Verdadeiro.
+F Verdadeiro. G Falso. H Verdadeiro. I Verdadeiro. J Verdadeiro.
+
+10) long int, int, int, String, int.
+
+11) int, String, int, float, long int;
+
+12) boolean, int, String, short int, short int.
+
+13) float, float, float, char, double.
+
+14) A declaração da variável nome escrita da mesma forma para armazenar duas informações diferentes.
+
+15) O erro está no nome da Classe que está escrita de forma incorreta onde as palavras estão escritas com espaços.
+
+16)boolean
+
+18) O tipo de dados boolean não aceita a atribuição de números, nesse caso 0 e 1.
+
+19) Não foi atribuido nenhum nome para a variável que armazena os lados do dado.
+
+20) O método maior() é do tipo inteiro e tenta retornar um tipo boolean, o que não é aceito.
+
+
+
+ 
